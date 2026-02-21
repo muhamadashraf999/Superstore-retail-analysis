@@ -15,7 +15,8 @@ This is an Excel project where I analyzed USA Superstore's sales data. Icleaned 
 - There was a slight decrease in sales during 2015.
 
 ##Tooles Used
--Excel functions
--Excel Pivot tables
--Poweer Query
+-Excel functions.
+-Excel Pivot tables.
+-Poweer Query.
+
 
