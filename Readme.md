@@ -14,10 +14,8 @@ This is an Excel project where I analyzed USA Superstore's sales data. Icleaned 
 - Most orders are shipped using "Standard Class".
 - There was a slight decrease in sales during 2015.
 
-## Files
-- Sales_Dashboard.xlsx: The main file with the data and dashboard.
-- Images: Folder containing screenshots of the dashboard.
 ##Tooles Used
 -Excel functions
 -Excel Pivot tables
 -Poweer Query
+
