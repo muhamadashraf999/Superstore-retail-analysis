@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard
 
 ## Project Description
-This is an Excel project where I analyzed US Superstore sales data. I created an interactive dashboard to visualize sales trends and key metrics.
+This is an Excel project where I analyzed USA Superstore's sales data. Icleaned data including processing missing values and duplicates also data modeling was done after that I created an interactive dashboard to visualize sales trends and key metrics.
 
 ## Features
 - Pivot Tables: Used to summarize total sales and net sales.
@@ -17,6 +17,7 @@ This is an Excel project where I analyzed US Superstore sales data. I created an
 ## Files
 - Sales_Dashboard.xlsx: The main file with the data and dashboard.
 - Images: Folder containing screenshots of the dashboard.
-
-## How to use
-Download the Excel file and use the Slicers (buttons) to filter the data.
+##Tooles Used
+-Excel functions
+-Excel Pivot tables
+-Poweer Query
